@@ -1,0 +1,15 @@
+/*h1:first-child{
+	background-color: pink;
+}
+p:first-of-type{
+	background-color: red;
+}
+p:last-child{
+	background-color: green;
+}*/
+p:nth-child(2){
+	background-color: pink;
+}
+td:nth-child(2){
+	background-color: pink;
+}

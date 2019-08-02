@@ -1,0 +1,12 @@
+/*#name1{
+	color: pink;
+}
+#name2{
+	color: red;
+}*/
+#name1,#name2{
+	color: red;
+}
+*{
+	background-color: pink;
+}

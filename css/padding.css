@@ -1,0 +1,19 @@
+div{
+	height: 200px;
+	width: 200px;
+	overflow: hidden;
+	margin-left: 20px;
+}
+#div1{
+	background-color: yellow;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+	padding-right: 20px;
+}
+#div2{
+	background-color: blue;
+}
+*{
+	margin: 0px 0px;
+}

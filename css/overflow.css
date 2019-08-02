@@ -1,0 +1,23 @@
+#div1{
+	height: 300px;
+	width: 150px;
+	background-color: yellow;
+	position: absolute;
+	top: 30px;
+	left: 50px;
+	overflow: auto;
+	/*outline: dashed;*/
+	border-left: double;
+	border-bottom: solid;
+}
+#div2{
+	position: absolute;
+	top: 30px;
+	left: 300px;
+	
+}
+input{
+	outline: none;
+	border: none;
+	border-bottom: solid;
+}

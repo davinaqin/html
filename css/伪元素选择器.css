@@ -1,0 +1,18 @@
+p::before{
+	content: "终于找到你";
+}
+body::after{
+	content: "依依不舍离开你";
+}
+p::first-line{
+	background-color: yellow;
+}
+p::first-letter{
+	font-size: 80px;
+}
+/*p::selection{
+	background-color: grey;
+}*/
+*::selection{
+	background-color: pink;
+}

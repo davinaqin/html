@@ -1,0 +1,11 @@
+p{
+	background: yellow;
+	font-size: 20px;
+}
+body{
+	/*background-color: red;*/
+	background-image: url("../image/strawberry.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center center;
+}

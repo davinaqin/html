@@ -1,0 +1,14 @@
+p{
+	/*color: #ffb5c1;*/
+	/*direction: ltr;*/
+	letter-spacing: 10px;
+	line-height: 50px;
+	text-align: justify;
+	text-decoration: underline;
+	/*text-shadow: 5px 5px 1px red;*/
+	text-indent: 3em;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: 隶书;
+}
